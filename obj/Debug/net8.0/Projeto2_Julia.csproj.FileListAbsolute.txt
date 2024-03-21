@@ -1,0 +1,14 @@
+E:\Faculdade\Projeto2_Julia\bin\Debug\net8.0\Projeto2_Julia.exe
+E:\Faculdade\Projeto2_Julia\bin\Debug\net8.0\Projeto2_Julia.deps.json
+E:\Faculdade\Projeto2_Julia\bin\Debug\net8.0\Projeto2_Julia.runtimeconfig.json
+E:\Faculdade\Projeto2_Julia\bin\Debug\net8.0\Projeto2_Julia.dll
+E:\Faculdade\Projeto2_Julia\bin\Debug\net8.0\Projeto2_Julia.pdb
+E:\Faculdade\Projeto2_Julia\obj\Debug\net8.0\Projeto2_Julia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\Projeto2_Julia\obj\Debug\net8.0\Projeto2_Julia.AssemblyInfoInputs.cache
+E:\Faculdade\Projeto2_Julia\obj\Debug\net8.0\Projeto2_Julia.AssemblyInfo.cs
+E:\Faculdade\Projeto2_Julia\obj\Debug\net8.0\Projeto2_Julia.csproj.CoreCompileInputs.cache
+E:\Faculdade\Projeto2_Julia\obj\Debug\net8.0\Projeto2_Julia.dll
+E:\Faculdade\Projeto2_Julia\obj\Debug\net8.0\refint\Projeto2_Julia.dll
+E:\Faculdade\Projeto2_Julia\obj\Debug\net8.0\Projeto2_Julia.pdb
+E:\Faculdade\Projeto2_Julia\obj\Debug\net8.0\Projeto2_Julia.genruntimeconfig.cache
+E:\Faculdade\Projeto2_Julia\obj\Debug\net8.0\ref\Projeto2_Julia.dll
